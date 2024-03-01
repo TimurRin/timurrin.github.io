@@ -1,0 +1,216 @@
+{
+  "title": "TR",
+  "header": {
+    "image": "https://avatars.githubusercontent.com/u/10585405",
+    "name": "TR"
+  },
+  "sections": [
+    {
+      "title": "SOFTWARE & WEB",
+      "items": [
+        {
+          "name": "Budoney",
+          "image": "",
+          "links": [
+            {
+              "text": "git repo",
+              "url": "https://github.com/TimurRin/budoney"
+            }
+          ],
+          "status": "alpha"
+        },
+        {
+          "name": "CF Version",
+          "image": "img/cinnabar.png",
+          "links": [],
+          "status": "WIP"
+        },
+        {
+          "name": "CF Workfolder",
+          "image": "img/cinnabar.png",
+          "links": [],
+          "status": "WIP"
+        },
+        {
+          "name": "Limelink",
+          "image": "img/limelink.png",
+          "links": [],
+          "status": "WIP"
+        },
+        {
+          "name": "Pastaquiz",
+          "image": "",
+          "links": [
+            {
+              "text": "git repo",
+              "url": "https://github.com/TimurRin/pastaquiz"
+            }
+          ],
+          "status": "alpha"
+        },
+        {
+          "name": "PDF Rush",
+          "image": "",
+          "links": [
+            {
+              "text": "git repo",
+              "url": "https://github.com/TimurRin/pdf-rush"
+            }
+          ],
+          "status": "alpha"
+        },
+        {
+          "name": "Serve Folder",
+          "image": "",
+          "links": [
+            {
+              "text": "git repo",
+              "url": "https://github.com/TimurRin/serve-folder"
+            }
+          ],
+          "status": ""
+        }
+      ]
+    },
+    {
+      "title": "GAMEDEV",
+      "items": [
+        {
+          "name": "ARMAZ MTA",
+          "image": "img/armaz.png",
+          "links": [
+            {
+              "text": "website",
+              "url": "https://armazmta.ru/"
+            }
+          ],
+          "status": ""
+        },
+        {
+          "name": "Wordlya Unleashed",
+          "image": "",
+          "links": [
+            {
+              "text": "git repo",
+              "url": "https://github.com/TimurRin/wordlya-unleashed"
+            }
+          ],
+          "status": "WIP"
+        }
+      ]
+    },
+    {
+      "title": "NODE.JS LIBRARIES",
+      "image": "img/npm.svg",
+      "items": [
+        {
+          "name": "CF Database Migrations",
+          "image": "img/cinnabar.png",
+          "links": [
+            {
+              "text": "git repo",
+              "url": "https://github.com/cinnabar-forge/cf-migrations"
+            },
+            {
+              "text": "npm package",
+              "url": "https://www.npmjs.com/package/@cinnabar-forge/cf-migrations"
+            }
+          ],
+          "status": "alpha"
+        },
+        {
+          "name": "CF ESLint Plugin",
+          "image": "img/cinnabar.png",
+          "links": [
+            {
+              "text": "git repo",
+              "url": "https://github.com/cinnabar-forge/eslint-plugin"
+            },
+            {
+              "text": "npm package",
+              "url": "https://www.npmjs.com/package/@cinnabar-forge/eslint-plugin"
+            }
+          ],
+          "status": "alpha"
+        },
+        {
+          "name": "CF SQLite3 Wrapper",
+          "image": "img/cinnabar.png",
+          "links": [
+            {
+              "text": "git repo",
+              "url": "https://github.com/cinnabar-forge/cf-sqlite3"
+            },
+            {
+              "text": "npm package",
+              "url": "https://www.npmjs.com/package/@cinnabar-forge/cf-sqlite3"
+            }
+          ],
+          "status": "beta"
+        },
+        {
+          "name": "CF Utils",
+          "image": "img/cinnabar.png",
+          "links": [
+            {
+              "text": "git repo",
+              "url": "https://github.com/cinnabar-forge/node-utils"
+            },
+            {
+              "text": "npm package",
+              "url": "https://www.npmjs.com/package/@cinnabar-forge/utils"
+            }
+          ],
+          "status": "alpha"
+        },
+        {
+          "name": "CF Web Framework",
+          "image": "img/cinnabar.png",
+          "links": [],
+          "status": "WIP"
+        }
+      ]
+    },
+    {
+      "title": "CONTACT ME",
+      "items": [
+        {
+          "name": "GitHub",
+          "image": {
+            "path": "img/github.svg",
+            "darkFilter": true
+          },
+          "links": [
+            {
+              "text": "@TimurRin",
+              "url": "https://github.com/TimurRin"
+            }
+          ],
+          "status": ""
+        },
+        {
+          "name": "Telegram",
+          "image": "img/telegram.svg",
+          "links": [
+            {
+              "text": "@TimurRin",
+              "url": "tg://resolve?domain=timurrin"
+            }
+          ],
+          "status": ""
+        },
+        {
+          "name": "NPM",
+          "image": "img/npm.svg",
+          "links": [
+            {
+              "text": "~timurrin",
+              "url": "https://www.npmjs.com/~timurrin"
+            }
+          ],
+          "status": ""
+        }
+      ]
+    }
+  ]
+}

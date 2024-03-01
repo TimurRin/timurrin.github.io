@@ -16,8 +16,8 @@ jobs:
         with:
           node-version: 20
       - run: npm install -g t2006
-      - run: t2006 --input '.' --output './dist'
+      - run: t2006 --input '.' --output '.'
       - uses: peaceiris/actions-gh-pages@v3
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: ./dist
+          publish_dir: .
