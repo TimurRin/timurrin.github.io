@@ -54,6 +54,19 @@
       "title": "TOOLS",
       "items": [
         {
+          "name": "Jordan Backup",
+          "links": [
+            {
+              "text": "github",
+              "url": "https://github.com/cinnabar-forge/jordan"
+            },
+            {
+              "text": "npm",
+              "url": "https://www.npmjs.com/package/jordan-backup"
+            }
+          ]
+        },
+        {
           "name": "PDF Rush",
           "links": [
             {
