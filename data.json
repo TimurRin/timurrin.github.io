@@ -129,6 +129,10 @@
             {
               "text": "github",
               "url": "https://github.com/cinnabar-forge/migratta"
+            },
+            {
+              "text": "npm",
+              "url": "https://www.npmjs.com/package/migratta"
             }
           ]
         }
