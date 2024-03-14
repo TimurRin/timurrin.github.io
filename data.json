@@ -2,7 +2,8 @@
   "title": "TR",
   "header": {
     "image": "https://avatars.githubusercontent.com/u/10585405",
-    "name": "TR"
+    "title": "TR",
+    "subtitle": "Node.js Enthusiast"
   },
   "sections": [
     {
@@ -15,7 +16,8 @@
               "text": "github",
               "url": "https://github.com/TimurRin/budoney"
             }
-          ]
+          ],
+          "extra": "python"
         }
       ]
     },
@@ -77,7 +79,8 @@
               "text": "download",
               "url": "https://github.com/TimurRin/pdf-rush/releases/latest"
             }
-          ]
+          ],
+          "extra": "python"
         }
       ]
     },
@@ -149,8 +152,7 @@
               "text": "website",
               "url": "https://armazmta.ru/"
             }
-          ],
-          "status": ""
+          ]
         }
       ]
     },
@@ -168,8 +170,7 @@
               "text": "@TimurRin",
               "url": "https://github.com/TimurRin"
             }
-          ],
-          "status": ""
+          ]
         },
         {
           "name": "Telegram",
@@ -179,8 +180,7 @@
               "text": "@TimurRin",
               "url": "tg://resolve?domain=timurrin"
             }
-          ],
-          "status": ""
+          ]
         },
         {
           "name": "NPM",
@@ -190,8 +190,7 @@
               "text": "~timurrin",
               "url": "https://www.npmjs.com/~timurrin"
             }
-          ],
-          "status": ""
+          ]
         }
       ]
     }
