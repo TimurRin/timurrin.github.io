@@ -1,0 +1,122 @@
+{
+  "meta": {
+    "theme": "macchiato"
+  },
+  "basics": {
+    "name": "Timur Moziev",
+    "label": "Software Developer",
+    "email": "timur.moziev@gmail.com",
+    "website": "https://timurrin.github.io",
+    "summary": "Aspiring developer eager to be invested in a challenging and creative project, preferably related to the Node.js stack. Willing to push new limits, as well as use available resources.",
+    "location": {
+      "city": "Moscow",
+      "countryCode": "RU"
+    },
+    "profiles": [
+      {
+        "network": "GitHub",
+        "username": "@TimurRin",
+        "url": "https://github.com/TimurRin"
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "ARMAZ MTA",
+      "position": "Founder",
+      "website": "http://armazmta.ru",
+      "startDate": "2022-01",
+      "summary": "Developed a multiplayer modification for MTA San Andreas (GTA San Andreas) with advanced solutions significantly improving and expanding the gameplay of the original 20-year-old game through the capabilities of the MTA:SA platform (object and item system, first-person view, realistic sound system, item display system on character and in the world, weapon customization). Infrastructure includes several VPS, game servers, a portal for viewing online presence, statistics, and payments, a database, a Telegram bot for player and developer notifications, and an asset server for a unified resource base (models, textures, pictures, sounds).",
+      "highlights": [
+        "Modification stack: MTA:SA Server (Lua, SQLite), Python (auxiliary scripts).",
+        "Infrastructure stack: Node.js (JavaScript, Express), Telegram API, MySQL, SQLite, Svelte, EJS, payment system APIs (QIWI, Yoomoney, WebMoney, crypto), PHP (Legacy).",
+        "Tools: Linux Ubuntu (as server OS), Git (GitHub), Jenkins, Limelink (own task manager and knowledge base)."
+      ]
+    },
+    {
+      "company": "CrestWave Technologies",
+      "position": "Java Developer",
+      "location": "Moscow",
+      "startDate": "2022-12",
+      "endDate": "2023-02",
+      "summary": "Supported an existing company project: part of the microservices responsible for processing payments and STK (Sim ToolKit) processing of a Kenyan bank. Communication with colleagues from Kenya was conducted in English.",
+      "highlights": [
+        "Stack: Java (Spring), PostgreSQL.",
+        "Tools: Linux Arch, Git (GitLab)."
+      ],
+      "website": "https://crestwavetech.ru"
+    },
+    {
+      "company": "Gridnine Systems",
+      "position": "Java Developer",
+      "location": "Moscow",
+      "website": "http://www.gridnine.com",
+      "startDate": "2021-05",
+      "endDate": "2022-03",
+      "summary": "Developed a comprehensive solution for installation and service organizations, including financial management, client database formation, statistics collection and analysis, as well as real-time order and work management. Developed a separate reporting application for displaying statistics and data.",
+      "highlights": [
+        "Main application stack: proprietary company framework (Java 8, PostgreSQL, TypeScript, React, XML models).",
+        "Reporting application stack: Java 8 (Spark), PostgreSQL, JavaScript, jQuery.",
+        "Tools: Linux Ubuntu (as the main and server OS), Git (GitLab), Jenkins, Postman, Jira+Confluence."
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Moscow City University",
+      "area": "Foreign Languages",
+      "studyType": "Translation and Interpretation",
+      "startDate": "2013",
+      "endDate": "2018",
+      "description": "Incomplete higher education."
+    }
+  ],
+  "skills": [
+    {
+      "name": "Languages",
+      "keywords": ["JavaScript", "TypeScript", "Java", "Python"]
+    },
+    {
+      "name": "Backend",
+      "keywords": ["Node.js", "Express.js", "Telegram API"]
+    },
+    {
+      "name": "Frontend",
+      "keywords": ["Svelte"]
+    },
+    {
+      "name": "Databases",
+      "keywords": ["SQLite", "MySQL", "PostgreSQL"]
+    },
+    {
+      "name": "Tools",
+      "keywords": [
+        "NPM",
+        "Git",
+        "Linux",
+        "Jenkins",
+        "Jira",
+        "Confluence",
+        "Postman"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "Russian",
+      "fluency": "Native"
+    },
+    {
+      "language": "English",
+      "fluency": "Advanced"
+    }
+  ],
+  "projects": [
+    {
+      "name": "NPM Packages",
+      "startDate": "2024-01",
+      "description": "Developed various standalone apps and libraries",
+      "url": "https://www.npmjs.com/~timurrin"
+    }
+  ]
+}

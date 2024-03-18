@@ -191,6 +191,23 @@
               "url": "https://www.npmjs.com/~timurrin"
             }
           ]
+        },
+        {
+          "name": "CV / Resume",
+          "links": [
+            {
+              "text": "view",
+              "url": "https://registry.jsonresume.org/timurrin"
+            },
+            {
+              "text": "json",
+              "url": "https://registry.jsonresume.org/timurrin.json"
+            },
+            {
+              "text": "qr-code",
+              "url": "https://registry.jsonresume.org/timurrin.qr"
+            }
+          ]
         }
       ]
     }
