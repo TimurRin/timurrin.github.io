@@ -56,6 +56,19 @@
       "title": "TOOLS",
       "items": [
         {
+          "name": "CF Meta",
+          "links": [
+            {
+              "text": "github",
+              "url": "https://github.com/cinnabar-forge/node-meta"
+            },
+            {
+              "text": "npm",
+              "url": "https://www.npmjs.com/package/@cinnabar-forge/meta"
+            }
+          ]
+        },
+        {
           "name": "Jordan Backup",
           "links": [
             {
