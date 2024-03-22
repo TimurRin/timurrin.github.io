@@ -182,6 +182,10 @@
             {
               "text": "@TimurRin",
               "url": "https://github.com/TimurRin"
+            },
+            {
+              "text": "@cinnabar-forge",
+              "url": "https://github.com/cinnabar-forge"
             }
           ]
         },
@@ -202,11 +206,15 @@
             {
               "text": "~timurrin",
               "url": "https://www.npmjs.com/~timurrin"
+            },
+            {
+              "text": "@cinnabar-forge",
+              "url": "https://www.npmjs.com/org/cinnabar-forge"
             }
           ]
         },
         {
-          "name": "CV / Resume",
+          "name": "CV",
           "links": [
             {
               "text": "view",
