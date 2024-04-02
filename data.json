@@ -229,6 +229,16 @@
               "url": "https://registry.jsonresume.org/timurrin.qr"
             }
           ]
+        },
+        {
+          "name": "LinkedIn",
+          "image": "img/linkedin.svg",
+          "links": [
+            {
+              "text": "visit",
+              "url": "https://www.linkedin.com/in/timur-moziev/"
+            }
+          ]
         }
       ]
     }

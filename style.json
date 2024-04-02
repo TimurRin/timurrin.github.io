@@ -1,18 +1,19 @@
 {
   "colors": {
-    "primaryColor": "#901050",
-    "linkColor": "#901050",
-    "linkHoverBackgroundColor": "#901050",
-    "linkHoverTextColor": "#ececec",
-    "borderColor": "#901050"
+    "backgroundColor": "#fff",
+    "textColor": "#000",
+    "borderColor": "#d04000",
+    "linkColor": "#d04000",
+    "linkHoverBackgroundColor": "#a4caba",
+    "linkHoverTextColor": "#111"
   },
   "colorsDark": {
     "backgroundColor": "#222",
-    "textColor": "rgba(255, 255, 255, 0.87)",
-    "borderColor": "#c9a0b5",
-    "linkColor": "#bd3a7b",
-    "linkHoverBackgroundColor": "#901050",
-    "linkHoverTextColor": "#ececec"
+    "textColor": "#ddd",
+    "borderColor": "#caad44",
+    "linkColor": "#caad44",
+    "linkHoverBackgroundColor": "#a4caba",
+    "linkHoverTextColor": "#111"
   },
   "fontHeaders": {
     "fontFamily": "\"source-sans-pro\", Arial",
