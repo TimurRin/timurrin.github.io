@@ -69,6 +69,19 @@
           ]
         },
         {
+          "name": "data2sqlite",
+          "links": [
+            {
+              "text": "github",
+              "url": "https://github.com/cinnabar-forge/data2sqlite"
+            },
+            {
+              "text": "npm",
+              "url": "https://www.npmjs.com/package/data2sqlite"
+            }
+          ]
+        },
+        {
           "name": "Jordan Backup",
           "links": [
             {
