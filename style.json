@@ -2,6 +2,7 @@
   "colors": {
     "backgroundColor": "#fff",
     "textColor": "#000",
+    "subtextColor": "#555",
     "borderColor": "#d04000",
     "linkColor": "#d04000",
     "linkHoverBackgroundColor": "#a4caba",
@@ -10,19 +11,20 @@
   "colorsDark": {
     "backgroundColor": "#222",
     "textColor": "#ddd",
+    "subtextColor": "#888",
     "borderColor": "#caad44",
     "linkColor": "#caad44",
     "linkHoverBackgroundColor": "#a4caba",
     "linkHoverTextColor": "#111"
   },
   "fontHeaders": {
-    "fontFamily": "\"source-sans-pro\", Arial",
+    "fontFamily": "\"source-sans-pro\", Arial, sans-serif",
     "fontWeight": "bold",
     "fontSize": "1.2em",
     "fontStyle": "normal"
   },
   "fontText": {
-    "fontFamily": "\"source-sans-pro\", Arial",
+    "fontFamily": "\"source-sans-pro\", Arial, sans-serif",
     "fontSize": "normal",
     "fontWeight": "normal",
     "fontStyle": "italic"

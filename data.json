@@ -1,31 +1,80 @@
 {
-  "title": "TR",
+  "title": "Timur Moziev",
+  "description": "Timur Moziev's showcase",
   "header": {
-    "image": "https://avatars.githubusercontent.com/u/10585405",
-    "title": "TR",
+    "image": "https://avatars.githubusercontent.com/u/10585405?s=32",
+    "title": "TIMUR MOZIEV",
     "subtitle": "Node.js Enthusiast"
   },
   "sections": [
     {
-      "title": "MANAGEMENT",
+      "title": "PROJECTS",
       "items": [
         {
-          "name": "Budoney",
+          "name": "ARMAZ",
+          "image": "img/armaz.png",
+          "text": "MTASA gamemode and server",
           "links": [
             {
-              "text": "github",
-              "url": "https://github.com/TimurRin/budoney"
+              "text": "website",
+              "url": "https://armazmta.ru/"
             }
-          ],
-          "extra": "python"
+          ]
         }
       ]
     },
     {
-      "title": "WEB",
+      "title": "NODE.JS APPS",
       "items": [
         {
+          "name": "CF Meta",
+          "image": "https://avatars.githubusercontent.com/u/74613738?s=32",
+          "text": "universal app version incrementor",
+          "links": [
+            {
+              "text": "github",
+              "url": "https://github.com/cinnabar-forge/node-meta"
+            },
+            {
+              "text": "npm",
+              "url": "https://www.npmjs.com/package/@cinnabar-forge/meta"
+            }
+          ]
+        },
+        {
+          "name": "data2sqlite",
+          "image": "https://avatars.githubusercontent.com/u/74613738?s=32",
+          "text": "importer from various formats to SQLite",
+          "links": [
+            {
+              "text": "github",
+              "url": "https://github.com/cinnabar-forge/data2sqlite"
+            },
+            {
+              "text": "npm",
+              "url": "https://www.npmjs.com/package/data2sqlite"
+            }
+          ]
+        },
+        {
+          "name": "Jordan",
+          "image": "https://avatars.githubusercontent.com/u/74613738?s=32",
+          "text": "CLI backup util",
+          "links": [
+            {
+              "text": "github",
+              "url": "https://github.com/cinnabar-forge/jordan"
+            },
+            {
+              "text": "npm",
+              "url": "https://www.npmjs.com/package/jordan-backup"
+            }
+          ]
+        },
+        {
           "name": "SnapServe",
+          "image": "https://avatars.githubusercontent.com/u/74613738?s=32",
+          "text": "fast pluggable express-based web-server",
           "links": [
             {
               "text": "github",
@@ -39,6 +88,8 @@
         },
         {
           "name": "t2006",
+          "image": "https://avatars.githubusercontent.com/u/74613738?s=32",
+          "text": "static site generator",
           "links": [
             {
               "text": "github",
@@ -53,68 +104,12 @@
       ]
     },
     {
-      "title": "TOOLS",
-      "items": [
-        {
-          "name": "CF Meta",
-          "links": [
-            {
-              "text": "github",
-              "url": "https://github.com/cinnabar-forge/node-meta"
-            },
-            {
-              "text": "npm",
-              "url": "https://www.npmjs.com/package/@cinnabar-forge/meta"
-            }
-          ]
-        },
-        {
-          "name": "data2sqlite",
-          "links": [
-            {
-              "text": "github",
-              "url": "https://github.com/cinnabar-forge/data2sqlite"
-            },
-            {
-              "text": "npm",
-              "url": "https://www.npmjs.com/package/data2sqlite"
-            }
-          ]
-        },
-        {
-          "name": "Jordan Backup",
-          "links": [
-            {
-              "text": "github",
-              "url": "https://github.com/cinnabar-forge/jordan"
-            },
-            {
-              "text": "npm",
-              "url": "https://www.npmjs.com/package/jordan-backup"
-            }
-          ]
-        },
-        {
-          "name": "PDF Rush",
-          "links": [
-            {
-              "text": "github",
-              "url": "https://github.com/TimurRin/pdf-rush"
-            },
-            {
-              "text": "download",
-              "url": "https://github.com/TimurRin/pdf-rush/releases/latest"
-            }
-          ],
-          "extra": "python"
-        }
-      ]
-    },
-    {
       "title": "NODE.JS LIBRARIES",
       "items": [
         {
           "name": "CF ESLint Plugin",
+          "image": "https://avatars.githubusercontent.com/u/74613738?s=32",
+          "text": "Cinnabar Forge linting rules",
           "links": [
             {
               "text": "github",
@@ -127,7 +122,9 @@
           ]
         },
         {
-          "name": "CF SQLite3 Wrapper",
+          "name": "CF SQLite3",
+          "image": "https://avatars.githubusercontent.com/u/74613738?s=32",
+          "text": "async sqlite3 wrapper",
           "links": [
             {
               "text": "github",
@@ -141,6 +138,8 @@
         },
         {
           "name": "CF Utils",
+          "image": "https://avatars.githubusercontent.com/u/74613738?s=32",
+          "text": "common utility functions set",
           "links": [
             {
               "text": "github",
@@ -154,6 +153,8 @@
         },
         {
           "name": "Migratta",
+          "image": "https://avatars.githubusercontent.com/u/74613738?s=32",
+          "text": "database migration and type generator",
           "links": [
             {
               "text": "github",
@@ -168,15 +169,31 @@
       ]
     },
     {
-      "title": "PROJECTS",
+      "title": "PYTHON APPS",
       "items": [
         {
-          "name": "ARMAZ MTA",
-          "image": "img/armaz.png",
+          "name": "Budoney",
+          "image": "https://avatars.githubusercontent.com/u/10585405?s=32",
+          "text": "household Telegram bot",
           "links": [
             {
-              "text": "website",
-              "url": "https://armazmta.ru/"
+              "text": "github",
+              "url": "https://github.com/TimurRin/budoney"
+            }
+          ]
+        },
+        {
+          "name": "PDF Rush",
+          "image": "img/pdf-rush.png",
+          "text": "mass PDF editor",
+          "links": [
+            {
+              "text": "github",
+              "url": "https://github.com/TimurRin/pdf-rush"
+            },
+            {
+              "text": "download",
+              "url": "https://github.com/TimurRin/pdf-rush/releases/latest"
             }
           ]
         }
@@ -228,6 +245,7 @@
         },
         {
           "name": "CV",
+          "image": "https://avatars.githubusercontent.com/u/10585405?s=32",
           "links": [
             {
               "text": "view",

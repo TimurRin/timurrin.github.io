@@ -10,7 +10,7 @@
 }
 
 body {
-  font-family: "source-sans-pro", Arial;
+  font-family: "source-sans-pro", Arial, sans-serif;
   color: #000;
   background-color: #fff;
   min-height: 100vh;
@@ -61,15 +61,20 @@ footer {
   max-width: 25em;
 }
 
-.vertical {
+.line {
   display: flex;
   align-items: center;
   justify-content: center;
 }
 
-.vertical * {
+.line * {
   margin-left: 0.05em;
   margin-right: 0.05em;
+}
+
+.card {
+  margin: 1em;
+  display: inline-block;
 }
 
 .image-circle {
@@ -81,16 +86,18 @@ footer {
   margin-right: 0.15em;
 }
 
+.subtext {
+  color: #555;
+  max-width: 25em;
+  display: block;
+}
+
 .bold {
   font-weight: bold;
 }
 
 .italic {
   font-style: italic;
-}
-
-.left-buffer {
-  margin-left: 0.25em;
 }
 
 .small {
@@ -118,6 +125,10 @@ footer {
   a:hover {
     background-color: #a4caba;
     color: #111;
+  }
+
+  .subtext {
+    color: #888;
   }
 
   .dark-theme-filter {
