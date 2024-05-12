@@ -4,7 +4,7 @@
   "header": {
     "image": "https://avatars.githubusercontent.com/u/10585405?s=32",
     "title": "TIMUR MOZIEV",
-    "subtitle": "Node.js Enthusiast"
+    "subtitle": "software / game / web developer"
   },
   "sections": [
     {
@@ -24,7 +24,7 @@
       ]
     },
     {
-      "title": "NODE.JS APPS",
+      "title": "NODE.JS-BASED APPS",
       "items": [
         {
           "name": "CF Meta",
@@ -40,6 +40,13 @@
               "url": "https://www.npmjs.com/package/@cinnabar-forge/meta"
             }
           ]
+        },
+        {
+          "name": "Cinnalytics",
+          "image": "https://avatars.githubusercontent.com/u/74613738?s=32",
+          "text": "simple analytics server",
+          "links": [],
+          "extra": "WIP"
         },
         {
           "name": "data2sqlite",
@@ -72,6 +79,13 @@
           ]
         },
         {
+          "name": "Limelink",
+          "image": "img/limelink.png",
+          "text": "knowledge base and task manager",
+          "links": [],
+          "extra": "WIP"
+        },
+        {
           "name": "SnapServe",
           "image": "https://avatars.githubusercontent.com/u/74613738?s=32",
           "text": "fast pluggable express-based web-server",
@@ -83,6 +97,10 @@
             {
               "text": "npm",
               "url": "https://www.npmjs.com/package/snapserve"
+            },
+            {
+              "text": "sample plugin",
+              "url": "https://github.com/cinnabar-forge/snapserve-wonka"
             }
           ]
         },
@@ -122,9 +140,16 @@
           ]
         },
         {
+          "name": "CF Markup",
+          "image": "https://avatars.githubusercontent.com/u/74613738?s=32",
+          "text": ".cftm format spec and tools",
+          "links": [],
+          "extra": "WIP"
+        },
+        {
           "name": "CF SQLite3",
           "image": "https://avatars.githubusercontent.com/u/74613738?s=32",
-          "text": "async sqlite3 wrapper",
+          "text": "sqlite3 wrapper",
           "links": [
             {
               "text": "github",
@@ -244,7 +269,7 @@
           ]
         },
         {
-          "name": "CV",
+          "name": "CV / Resume",
           "image": "https://avatars.githubusercontent.com/u/10585405?s=32",
           "links": [
             {
@@ -273,5 +298,6 @@
         }
       ]
     }
-  ]
+  ],
+  "cinnalyticsUrl": "https://analytics.cinnabar.ru/analytics"
 }
