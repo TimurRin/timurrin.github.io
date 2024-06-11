@@ -140,11 +140,19 @@
           ]
         },
         {
-          "name": "CF Markup",
+          "name": "CFTM",
           "image": "https://avatars.githubusercontent.com/u/74613738?s=32",
-          "text": ".cftm format spec and tools",
-          "links": [],
-          "extra": "WIP"
+          "text": "Cinnabar Forge Text Markup spec and tools",
+          "links": [
+            {
+              "text": "github",
+              "url": "https://github.com/cinnabar-forge/markup"
+            },
+            {
+              "text": "npm",
+              "url": "https://www.npmjs.com/package/cftm"
+            }
+          ]
         },
         {
           "name": "CF SQLite3",
