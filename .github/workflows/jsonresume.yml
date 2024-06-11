@@ -3,8 +3,10 @@ name: resume.json gist
 on:
   push:
     branches: ["master"]
+    paths: ["resume.json"]
   pull_request:
     branches: ["master"]
+    paths: ["resume.json"]
   workflow_dispatch:
 
 jobs:
