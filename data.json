@@ -140,21 +140,6 @@
           ]
         },
         {
-          "name": "CFTM",
-          "image": "https://avatars.githubusercontent.com/u/74613738?s=32",
-          "text": "Cinnabar Forge Text Markup spec and tools",
-          "links": [
-            {
-              "text": "github",
-              "url": "https://github.com/cinnabar-forge/markup"
-            },
-            {
-              "text": "npm",
-              "url": "https://www.npmjs.com/package/cftm"
-            }
-          ]
-        },
-        {
           "name": "CF SQLite3",
           "image": "https://avatars.githubusercontent.com/u/74613738?s=32",
           "text": "sqlite3 wrapper",
@@ -181,6 +166,36 @@
             {
               "text": "npm",
               "url": "https://www.npmjs.com/package/@cinnabar-forge/utils"
+            }
+          ]
+        },
+        {
+          "name": "CFTM",
+          "image": "https://avatars.githubusercontent.com/u/74613738?s=32",
+          "text": "Cinnabar Forge Text Markup spec and tools",
+          "links": [
+            {
+              "text": "github",
+              "url": "https://github.com/cinnabar-forge/markup"
+            },
+            {
+              "text": "npm",
+              "url": "https://www.npmjs.com/package/cftm"
+            }
+          ]
+        },
+        {
+          "name": "Clivo",
+          "image": "https://avatars.githubusercontent.com/u/74613738?s=32",
+          "text": "Simple CLI tools library",
+          "links": [
+            {
+              "text": "github",
+              "url": "https://github.com/cinnabar-forge/clivo"
+            },
+            {
+              "text": "npm",
+              "url": "https://www.npmjs.com/package/clivo"
             }
           ]
         },
