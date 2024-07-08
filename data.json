@@ -24,12 +24,30 @@
       ]
     },
     {
-      "title": "NODE.JS-BASED APPS",
+      "title": "APPS",
       "items": [
+        {
+          "name": "Anca",
+          "image": "https://avatars.githubusercontent.com/u/74613738?s=32",
+          "text": "project manager",
+          "links": [],
+          "extra": "WIP"
+        },
+        {
+          "name": "Budoney",
+          "image": "https://avatars.githubusercontent.com/u/10585405?s=32",
+          "text": "household Telegram bot",
+          "links": [
+            {
+              "text": "github",
+              "url": "https://github.com/TimurRin/budoney"
+            }
+          ]
+        },
         {
           "name": "CF Meta",
           "image": "https://avatars.githubusercontent.com/u/74613738?s=32",
-          "text": "universal app version incrementor",
+          "text": "app version incrementor",
           "links": [
             {
               "text": "github",
@@ -44,14 +62,14 @@
         {
           "name": "Cinnalytics",
           "image": "https://avatars.githubusercontent.com/u/74613738?s=32",
-          "text": "simple analytics server",
+          "text": "analytics server",
           "links": [],
           "extra": "WIP"
         },
         {
           "name": "data2sqlite",
           "image": "https://avatars.githubusercontent.com/u/74613738?s=32",
-          "text": "importer from various formats to SQLite",
+          "text": "SQLite importer",
           "links": [
             {
               "text": "github",
@@ -66,7 +84,7 @@
         {
           "name": "Jordan",
           "image": "https://avatars.githubusercontent.com/u/74613738?s=32",
-          "text": "CLI backup util",
+          "text": "backup tool",
           "links": [
             {
               "text": "github",
@@ -86,9 +104,24 @@
           "extra": "WIP"
         },
         {
+          "name": "PDF Rush",
+          "image": "img/pdf-rush.png",
+          "text": "mass PDF editor",
+          "links": [
+            {
+              "text": "github",
+              "url": "https://github.com/TimurRin/pdf-rush"
+            },
+            {
+              "text": "download",
+              "url": "https://github.com/TimurRin/pdf-rush/releases/latest"
+            }
+          ]
+        },
+        {
           "name": "SnapServe",
           "image": "https://avatars.githubusercontent.com/u/74613738?s=32",
-          "text": "fast pluggable express-based web-server",
+          "text": "pluggable folder server",
           "links": [
             {
               "text": "github",
@@ -127,7 +160,7 @@
         {
           "name": "CF ESLint Plugin",
           "image": "https://avatars.githubusercontent.com/u/74613738?s=32",
-          "text": "Cinnabar Forge linting rules",
+          "text": "linting rules",
           "links": [
             {
               "text": "github",
@@ -157,7 +190,7 @@
         {
           "name": "CF Utils",
           "image": "https://avatars.githubusercontent.com/u/74613738?s=32",
-          "text": "common utility functions set",
+          "text": "common functions set",
           "links": [
             {
               "text": "github",
@@ -172,7 +205,7 @@
         {
           "name": "CFTM",
           "image": "https://avatars.githubusercontent.com/u/74613738?s=32",
-          "text": "Cinnabar Forge Text Markup spec and tools",
+          "text": "text markup spec and tools",
           "links": [
             {
               "text": "github",
@@ -187,7 +220,7 @@
         {
           "name": "Clivo",
           "image": "https://avatars.githubusercontent.com/u/74613738?s=32",
-          "text": "Simple CLI tools library",
+          "text": "cli and input tools library",
           "links": [
             {
               "text": "github",
@@ -211,37 +244,6 @@
             {
               "text": "npm",
               "url": "https://www.npmjs.com/package/migratta"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "title": "PYTHON APPS",
-      "items": [
-        {
-          "name": "Budoney",
-          "image": "https://avatars.githubusercontent.com/u/10585405?s=32",
-          "text": "household Telegram bot",
-          "links": [
-            {
-              "text": "github",
-              "url": "https://github.com/TimurRin/budoney"
-            }
-          ]
-        },
-        {
-          "name": "PDF Rush",
-          "image": "img/pdf-rush.png",
-          "text": "mass PDF editor",
-          "links": [
-            {
-              "text": "github",
-              "url": "https://github.com/TimurRin/pdf-rush"
-            },
-            {
-              "text": "download",
-              "url": "https://github.com/TimurRin/pdf-rush/releases/latest"
             }
           ]
         }
