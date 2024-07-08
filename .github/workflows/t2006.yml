@@ -3,9 +3,18 @@ name: t2006 deploy
 on:
   push:
     branches: ["master"]
+    paths:
+      - "data.json"
+      - "style.json"
+      - "img/**"
+      - "fonts/**"
   pull_request:
     branches: ["master"]
-  workflow_dispatch:
+    paths:
+      - "data.json"
+      - "style.json"
+      - "img/**"
+      - "fonts/**"
 
 jobs:
   build:
