@@ -23,9 +23,9 @@
   "work": [
     {
       "company": "ARMAZ MTA",
-      "position": "Founder",
-      "website": "http://armazmta.ru",
-      "startDate": "2022-01",
+      "position": "Principal developer",
+      "website": "https://armazmta.ru",
+      "startDate": "2022-03",
       "summary": "Developed a multiplayer modification for MTA San Andreas (GTA San Andreas) with advanced solutions significantly improving and expanding the gameplay of the original 20-year-old game through the capabilities of the MTA:SA platform (object and item system, first-person view, realistic sound system, item display system on character and in the world, weapon customization). Infrastructure includes several VPS, game servers, a portal for viewing online presence, statistics, and payments, a database, a Telegram bot for player and developer notifications, and an asset server for a unified resource base (models, textures, pictures, sounds).",
       "highlights": [
         "Modification stack: MTA:SA Server (Lua, SQLite), Python (auxiliary scripts).",
@@ -50,7 +50,7 @@
       "company": "Gridnine Systems",
       "position": "Java Developer",
       "location": "Moscow",
-      "website": "http://www.gridnine.com",
+      "website": "https://www.gridnine.com",
       "startDate": "2021-05",
       "endDate": "2022-03",
       "summary": "Developed a comprehensive solution for installation and service organizations, including financial management, client database formation, statistics collection and analysis, as well as real-time order and work management. Developed a separate reporting application for displaying statistics and data.",
@@ -68,13 +68,13 @@
       "studyType": "Translation and Interpretation",
       "startDate": "2013",
       "endDate": "2018",
-      "description": "Incomplete higher education."
+      "description": "Incomplete higher education"
     }
   ],
   "skills": [
     {
       "name": "Languages",
-      "keywords": ["JavaScript", "TypeScript", "Java", "Python"]
+      "keywords": ["JavaScript", "TypeScript", "Python", "Java"]
     },
     {
       "name": "Backend",
@@ -86,19 +86,7 @@
     },
     {
       "name": "Databases",
-      "keywords": ["SQLite", "MySQL", "PostgreSQL"]
-    },
-    {
-      "name": "Tools",
-      "keywords": [
-        "NPM",
-        "Git",
-        "Linux",
-        "Jenkins",
-        "Jira",
-        "Confluence",
-        "Postman"
-      ]
+      "keywords": ["SQLite", "MySQL"]
     }
   ],
   "languages": [
