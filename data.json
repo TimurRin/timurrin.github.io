@@ -68,21 +68,6 @@
           ]
         },
         {
-          "name": "Cinnagram",
-          "image": "https://avatars.githubusercontent.com/u/74613738?s=32",
-          "text": "telegram api",
-          "links": [
-            {
-              "text": "github",
-              "url": "https://github.com/cinnabar-forge/cinnagram"
-            },
-            {
-              "text": "npm",
-              "url": "https://www.npmjs.com/package/cinnagram"
-            }
-          ]
-        },
-        {
           "name": "Cinnalytics",
           "image": "https://avatars.githubusercontent.com/u/74613738?s=32",
           "text": "analytics server",
@@ -237,6 +222,21 @@
             {
               "text": "npm",
               "url": "https://www.npmjs.com/package/cftm"
+            }
+          ]
+        },
+        {
+          "name": "Cinnagram",
+          "image": "https://avatars.githubusercontent.com/u/74613738?s=32",
+          "text": "telegram api",
+          "links": [
+            {
+              "text": "github",
+              "url": "https://github.com/cinnabar-forge/cinnagram"
+            },
+            {
+              "text": "npm",
+              "url": "https://www.npmjs.com/package/cinnagram"
             }
           ]
         },
