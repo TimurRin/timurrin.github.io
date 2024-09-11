@@ -4,7 +4,8 @@
   "header": {
     "image": "https://avatars.githubusercontent.com/u/10585405?s=32",
     "title": "TIMUR MOZIEV",
-    "subtitle": "software / game / web developer"
+    "subtitle": "software / game / web developer",
+    "about": "Welcome to my page! Node.js is the runtime I love, learn and develop cool stuff with. Some projects and tools can be found here and more by the links below. If you want to join Cinnabar Forge to develop projects together, feel free to contact me. I'm open for work, check my <a href='https://registry.jsonresume.org/timurrin'>CV</a>"
   },
   "sections": [
     {
@@ -29,8 +30,12 @@
         {
           "name": "Anca",
           "image": "https://avatars.githubusercontent.com/u/74613738?s=32",
-          "text": "project manager",
+          "text": "project management and standardization",
           "links": [
+            {
+              "text": "download",
+              "url": "https://github.com/cinnabar-forge/anca/releases/latest"
+            },
             {
               "text": "github",
               "url": "https://github.com/cinnabar-forge/anca"
@@ -42,21 +47,14 @@
           ]
         },
         {
-          "name": "Budoney",
-          "image": "https://avatars.githubusercontent.com/u/10585405?s=32",
-          "text": "household telegram bot",
-          "links": [
-            {
-              "text": "github",
-              "url": "https://github.com/TimurRin/budoney"
-            }
-          ]
-        },
-        {
           "name": "CF Meta",
           "image": "https://avatars.githubusercontent.com/u/74613738?s=32",
           "text": "app version incrementor",
           "links": [
+            {
+              "text": "download",
+              "url": "https://github.com/cinnabar-forge/node-meta/releases/latest"
+            },
             {
               "text": "github",
               "url": "https://github.com/cinnabar-forge/node-meta"
@@ -68,80 +66,17 @@
           ]
         },
         {
-          "name": "Cinnalytics",
-          "image": "https://avatars.githubusercontent.com/u/74613738?s=32",
-          "text": "analytics server",
-          "links": [],
-          "extra": "WIP"
-        },
-        {
-          "name": "data2sqlite",
-          "image": "https://avatars.githubusercontent.com/u/74613738?s=32",
-          "text": "importer to sqlite",
-          "links": [
-            {
-              "text": "github",
-              "url": "https://github.com/cinnabar-forge/data2sqlite"
-            },
-            {
-              "text": "npm",
-              "url": "https://www.npmjs.com/package/data2sqlite"
-            }
-          ]
-        },
-        {
-          "name": "Jordan",
-          "image": "https://avatars.githubusercontent.com/u/74613738?s=32",
-          "text": "backup tool",
-          "links": [
-            {
-              "text": "github",
-              "url": "https://github.com/cinnabar-forge/jordan"
-            },
-            {
-              "text": "npm",
-              "url": "https://www.npmjs.com/package/jordan-backup"
-            }
-          ]
-        },
-        {
-          "name": "Limelink",
-          "image": "img/limelink.png",
-          "text": "knowledge base and task manager",
-          "links": [],
-          "extra": "WIP"
-        },
-        {
           "name": "PDF Rush",
           "image": "img/pdf-rush.png",
           "text": "mass pdf editor",
           "links": [
             {
-              "text": "github",
-              "url": "https://github.com/TimurRin/pdf-rush"
-            },
-            {
               "text": "download",
               "url": "https://github.com/TimurRin/pdf-rush/releases/latest"
-            }
-          ]
-        },
-        {
-          "name": "SnapServe",
-          "image": "https://avatars.githubusercontent.com/u/74613738?s=32",
-          "text": "pluggable folder server",
-          "links": [
+            },
             {
               "text": "github",
-              "url": "https://github.com/cinnabar-forge/snapserve"
-            },
-            {
-              "text": "npm",
-              "url": "https://www.npmjs.com/package/snapserve"
-            },
-            {
-              "text": "sample plugin",
-              "url": "https://github.com/cinnabar-forge/snapserve-wonka"
+              "url": "https://github.com/TimurRin/pdf-rush"
             }
           ]
         },
@@ -181,51 +116,6 @@
           ]
         },
         {
-          "name": "CF SQLite3",
-          "image": "https://avatars.githubusercontent.com/u/74613738?s=32",
-          "text": "sqlite3 wrapper",
-          "links": [
-            {
-              "text": "github",
-              "url": "https://github.com/cinnabar-forge/cf-sqlite3"
-            },
-            {
-              "text": "npm",
-              "url": "https://www.npmjs.com/package/@cinnabar-forge/cf-sqlite3"
-            }
-          ]
-        },
-        {
-          "name": "CF Utils",
-          "image": "https://avatars.githubusercontent.com/u/74613738?s=32",
-          "text": "common functions set",
-          "links": [
-            {
-              "text": "github",
-              "url": "https://github.com/cinnabar-forge/node-utils"
-            },
-            {
-              "text": "npm",
-              "url": "https://www.npmjs.com/package/@cinnabar-forge/utils"
-            }
-          ]
-        },
-        {
-          "name": "CFTM",
-          "image": "https://avatars.githubusercontent.com/u/74613738?s=32",
-          "text": "text markup spec and tools",
-          "links": [
-            {
-              "text": "github",
-              "url": "https://github.com/cinnabar-forge/markup"
-            },
-            {
-              "text": "npm",
-              "url": "https://www.npmjs.com/package/cftm"
-            }
-          ]
-        },
-        {
           "name": "Cinnagram",
           "image": "https://avatars.githubusercontent.com/u/74613738?s=32",
           "text": "telegram api",
@@ -254,26 +144,11 @@
               "url": "https://www.npmjs.com/package/clivo"
             }
           ]
-        },
-        {
-          "name": "Migratta",
-          "image": "https://avatars.githubusercontent.com/u/74613738?s=32",
-          "text": "database migration and type generator",
-          "links": [
-            {
-              "text": "github",
-              "url": "https://github.com/cinnabar-forge/migratta"
-            },
-            {
-              "text": "npm",
-              "url": "https://www.npmjs.com/package/migratta"
-            }
-          ]
         }
       ]
     },
     {
-      "title": "CONTACT ME",
+      "title": "LINKS",
       "items": [
         {
           "name": "GitHub",
@@ -303,6 +178,19 @@
           ]
         },
         {
+          "name": "X (Twitter)",
+          "image": {
+            "path": "img/x.svg",
+            "darkFilter": true
+          },
+          "links": [
+            {
+              "text": "@openTimurRin",
+              "url": "https://x.com/openTimurRin"
+            }
+          ]
+        },
+        {
           "name": "NPM",
           "image": "img/npm.svg",
           "links": [
@@ -323,14 +211,6 @@
             {
               "text": "view",
               "url": "https://registry.jsonresume.org/timurrin"
-            },
-            {
-              "text": "json",
-              "url": "https://registry.jsonresume.org/timurrin.json"
-            },
-            {
-              "text": "qr-code",
-              "url": "https://registry.jsonresume.org/timurrin.qr"
             }
           ]
         },
