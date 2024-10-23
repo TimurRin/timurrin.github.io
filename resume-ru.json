@@ -1,0 +1,113 @@
+{
+  "meta": {
+    "theme": "paper-plus-plus"
+  },
+  "basics": {
+    "name": "Тимур Мозиев",
+    "label": "Разработчик Node.js",
+    "email": "timur.moziev@gmail.com",
+    "website": "https://timurrin.github.io",
+    "location": {
+      "city": "Москва",
+      "countryCode": "RU"
+    },
+    "profiles": [
+      {
+        "network": "GitHub",
+        "username": "@TimurRin",
+        "url": "https://github.com/TimurRin"
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "Cinnabar Forge",
+      "position": "Основной разработчик",
+      "startDate": "2023-02",
+      "summary": "Разработка мультиплеерной игры. Настройка и разработка инфраструктуры организации, нескольких VPS, игровых серверов, внутренних порталов, баз данных, Телеграм-ботов, ассет-серверов. Разработка опенсорсных проектов. Оказывание услуг компаниям.",
+      "highlights": [
+        "Стэк инфраструктуры: Node.js (JavaScript, Express, Svelte, SvelteKit, Knex, EJS), MTA:SA Server (Lua, SQLite), Python (вспомогательные скрипты), MySQL, SQLite, Docker, APIs платёжных систем (QIWI, Yoomoney, WebMoney, крипта), PHP (легаси).",
+        "Инструменты: Linux Ubuntu (as server OS), Git (GitHub), Jenkins, Limelink (own task manager and knowledge base)."
+      ]
+    },
+    {
+      "company": "CrestWave Technologies",
+      "position": "Разработчик Java",
+      "location": "Москва",
+      "startDate": "2022-12",
+      "endDate": "2023-02",
+      "summary": "Поддержка существующего проекта компании: часть микросервисов, отвечающих за обработку платежей и процессингом STK (Sim ToolKit) кенийского банка.",
+      "highlights": [
+        "Стэк: Java (Spring), PostgreSQL.",
+        "Инструменты: Linux Arch, Git (GitLab)."
+      ],
+      "website": "https://crestwavetech.ru"
+    },
+    {
+      "company": "Gridnine Systems",
+      "position": "Разработчик Java",
+      "location": "Москва",
+      "website": "https://www.gridnine.com",
+      "startDate": "2021-05",
+      "endDate": "2022-03",
+      "summary": "Разработка комплексного решения для монтажных и сервисных организаций, которое включает в себя управление финансами, формирование клиентской базы, сбор и анализ статистики, а также управление заказами и выполнением работ в режиме реального времени. Поддежка фронтэндерских задач, при необходимости. Разработка отдельного отчётного приложения для отображения статистики и данных.",
+      "highlights": [
+        "Стэк главного приложения: проприетарный фреймворк компании (Java 8, PostgreSQL, TypeScript, React, XML-модели).",
+        "Стэк отчётного приложения: Java 8 (Spark), PostgreSQL, JavaScript, jQuery.",
+        "Инструменты: Linux Ubuntu (в качестве основной и серверной OS), Git (GitLab), Jenkins, Postman, Jira+Confluence)."
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "МГПУ",
+      "area": "Институт иностранных языков",
+      "studyType": "Перевод и переводоведение",
+      "startDate": "2013",
+      "endDate": "2018",
+      "description": "Неоконченное высшее"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Языки программирования",
+      "keywords": ["JavaScript", "TypeScript", "Python", "Java"]
+    },
+    {
+      "name": "Стэк",
+      "keywords": [
+        "Node.js",
+        "Express.js",
+        "Knex",
+        "Svelte",
+        "SvelteKit",
+        "HTML",
+        "CSS",
+        "SQLite",
+        "MySQL"
+      ]
+    },
+    {
+      "name": "Инструменты",
+      "keywords": ["Linux", "Git", "Docker", "Jenkins", "ChatGPT", "LLM"]
+    }
+  ],
+  "languages": [
+    {
+      "language": "Русский",
+      "fluency": "Родной"
+    },
+    {
+      "language": "Английский",
+      "fluency": "Продвинутый"
+    }
+  ],
+  "projects": [
+    {
+      "name": "npm-пакеты",
+      "startDate": "2024-01",
+      "description": "Разработка различных библиотек и приложений для Node.js",
+      "url": "https://www.npmjs.com/~timurrin"
+    }
+  ]
+}
