@@ -191,6 +191,32 @@
           ]
         },
         {
+          "name": "Mastodon",
+          "image": {
+            "path": "img/mstdn.svg",
+            "darkFilter": true
+          },
+          "links": [
+            {
+              "text": "@TimurRin@mstdn.plus",
+              "url": "https://mstdn.plus/@TimurRin"
+            }
+          ]
+        },
+        {
+          "name": "Bluesky",
+          "image": {
+            "path": "img/bsky.svg",
+            "darkFilter": true
+          },
+          "links": [
+            {
+              "text": "@timurrin.bsky.social",
+              "url": "https://bsky.app/profile/timurrin.bsky.social"
+            }
+          ]
+        },
+        {
           "name": "NPM",
           "image": "img/npm.svg",
           "links": [
