@@ -27,8 +27,8 @@
       "startDate": "2023-02",
       "summary": "Developed a multiplayer game with advanced solutions. Set up and developed organization infrastructure including VPN, several VPS, game servers, internal portals, databases, Telegram bots, game asset server. Contributed to open-source projects. Offered a freelance help to other companies.",
       "highlights": [
-        "Infrastructure stack: Node.js (JavaScript, Express, Svelte, SvelteKit, Knex, EJS), MTA:SA Server (Lua, SQLite), Python (auxiliary scripts), MySQL, SQLite, Docker, payment system APIs (QIWI, Yoomoney, WebMoney, crypto), PHP (Legacy).",
-        "Tools: Linux Ubuntu (as server OS), Git (GitHub), Jenkins, Limelink (own task manager and knowledge base)."
+        "Infrastructure stack: Node.js (JavaScript, TypeScript, Express.js, Svelte, SvelteKit, Knex, EJS), MTA:SA Server (Lua, SQLite), Python, MySQL, SQLite, Docker, payment system APIs (QIWI, Yoomoney, WebMoney, crypto), PHP (Legacy).",
+        "Tools: Linux Ubuntu (as server OS), Docker, Git (GitHub, Gitea), Limelink (own task manager and knowledge base)."
       ]
     },
     {

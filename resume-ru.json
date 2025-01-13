@@ -24,10 +24,10 @@
       "company": "Cinnabar Forge",
       "position": "Основной разработчик",
       "startDate": "2023-02",
-      "summary": "Разработка мультиплеерной игры. Настройка и разработка инфраструктуры организации, нескольких VPS, игровых серверов, внутренних порталов, баз данных, Телеграм-ботов, ассет-серверов. Разработка опенсорсных проектов. Оказывание услуг компаниям.",
+      "summary": "Разработка мультиплеерной игры. Настройка и разработка инфраструктуры организации, нескольких VPS, игровых серверов, внутренних порталов, баз данных, Телеграм-ботов, ассет-серверов. Разработка опенсорсных проектов. Оказывание фриланс-услуг компаниям.",
       "highlights": [
-        "Стэк инфраструктуры: Node.js (JavaScript, Express, Svelte, SvelteKit, Knex, EJS), MTA:SA Server (Lua, SQLite), Python (вспомогательные скрипты), MySQL, SQLite, Docker, APIs платёжных систем (QIWI, Yoomoney, WebMoney, крипта), PHP (легаси).",
-        "Инструменты: Linux Ubuntu (as server OS), Git (GitHub), Jenkins, Limelink (own task manager and knowledge base)."
+        "Стэк инфраструктуры: Node.js (JavaScript, TypeScript, Express.js, Svelte, SvelteKit, Knex, EJS), MTA:SA Server (Lua, SQLite), Python (вспомогательные скрипты), MySQL, SQLite, Docker, APIs платёжных систем (QIWI, Yoomoney, WebMoney, крипта), PHP (легаси).",
+        "Инструменты: Linux Ubuntu (as server OS), Docker, Git (GitHub, Gitea), Limelink (own task manager and knowledge base)."
       ]
     },
     {
@@ -54,7 +54,7 @@
       "highlights": [
         "Стэк главного приложения: проприетарный фреймворк компании (Java 8, PostgreSQL, TypeScript, React, XML-модели).",
         "Стэк отчётного приложения: Java 8 (Spark), PostgreSQL, JavaScript, jQuery.",
-        "Инструменты: Linux Ubuntu (в качестве основной и серверной OS), Git (GitLab), Jenkins, Postman, Jira+Confluence)."
+        "Инструменты: Linux Ubuntu (в качестве основной и серверной OS), Git (GitLab), Jenkins, Postman, Jira+Confluence."
       ]
     }
   ],
@@ -106,7 +106,7 @@
     {
       "name": "npm-пакеты",
       "startDate": "2024-01",
-      "description": "Разработка различных библиотек и приложений для Node.js",
+      "description": "Разработка различных библиотек и приложений на Node.js",
       "url": "https://www.npmjs.com/~timurrin"
     }
   ]
