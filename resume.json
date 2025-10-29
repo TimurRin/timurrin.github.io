@@ -7,7 +7,7 @@
     "label": "Node.js Developer",
     "email": "timur.moziev@gmail.com",
     "website": "https://timurrin.github.io",
-    "summary": "Aspiring developer eager to be invested in a challenging and creative project, preferably related to the Node.js stack. Willing to push new limits, as well as use available resources.",
+    "summary": "Fullstack Node.js developer with experience in backend and infrastructure setup. Built development environments, CI/CD pipelines, and web apps using modern TypeScript and Svelte stack. Looking to join a team and contribute to production-grade projects.",
     "location": {
       "city": "Moscow",
       "countryCode": "RU"
@@ -25,10 +25,12 @@
       "company": "Cinnabar Forge",
       "position": "Principal developer",
       "startDate": "2023-02",
-      "summary": "Developed a multiplayer game with advanced solutions. Set up and developed organization infrastructure including VPN, several VPS, game servers, internal portals, databases, Telegram bots, game asset server. Contributed to open-source projects. Offered a freelance help to other companies.",
+      "summary": "Directed development of infrastructure and internal tools. Designed, deployed and maintained a multiplayer game project, servers, portals, bots, and codebases.",
       "highlights": [
-        "Infrastructure stack: Node.js (JavaScript, TypeScript, Express.js, Svelte, SvelteKit, Knex, EJS), MTA:SA Server (Lua, SQLite), Python, MySQL, SQLite, Docker, payment system APIs (QIWI, Yoomoney, WebMoney, crypto), PHP (Legacy).",
-        "Tools: Linux Ubuntu (as server OS), Docker, Git (GitHub, Gitea), Limelink (own task manager and knowledge base)."
+        "Built and managed infrastructure: several VPS, VPN, Gitea, Docker.",
+        "Developed backend and web interfaces using Node.js (Fastify, TypeScript) and SvelteKit.",
+        "Integrated databases (SQLite, MySQL) and payment system APIs.",
+        "Contributed to open-source and assisted freelance clients."
       ]
     },
     {
@@ -37,10 +39,10 @@
       "location": "Moscow",
       "startDate": "2022-12",
       "endDate": "2023-02",
-      "summary": "Supported an existing company project: part of the microservices responsible for processing payments and STK (Sim ToolKit) processing of a Kenyan bank.",
+      "summary": "Maintained microservices for payment and STK processing of a foreign bank.",
       "highlights": [
         "Stack: Java (Spring), PostgreSQL.",
-        "Tools: Linux Arch, Git (GitLab)."
+        "Tools: Linux Arch, GitLab."
       ],
       "website": "https://crestwavetech.ru"
     },
@@ -51,11 +53,11 @@
       "website": "https://www.gridnine.com",
       "startDate": "2021-05",
       "endDate": "2022-03",
-      "summary": "Maintained and improved a comprehensive solution for installation and service organizations, including financial management, client database formation, statistics collection and analysis, as well as real-time order and work management. Assisted in front-end tasks. Started to develop a separate reporting application for displaying statistics and data.",
+      "summary": "Supported an application for service organizations. Implemented new modules and a separate reporting app.",
       "highlights": [
-        "Main application stack: proprietary company framework (Java 8, PostgreSQL, TypeScript, React, XML models).",
-        "Reporting application stack: Java 8 (Spark), PostgreSQL, JavaScript, jQuery.",
-        "Tools: Linux Ubuntu (as the main and server OS), Git (GitLab), Jenkins, Postman, Jira+Confluence."
+        "Main stack: Java 8, PostgreSQL, TypeScript, React.",
+        "Reporting app: Java (Spark), PostgreSQL, JavaScript.",
+        "Tools: Linux Ubuntu, GitLab, Jenkins, Jira."
       ]
     }
   ],
@@ -75,22 +77,17 @@
       "keywords": ["JavaScript", "TypeScript", "Python", "Java"]
     },
     {
-      "name": "Stack",
+      "name": "Frameworks & Tools",
       "keywords": [
         "Node.js",
-        "Express.js",
-        "Knex",
-        "Svelte",
+        "Fastify",
         "SvelteKit",
-        "HTML",
-        "CSS",
+        "Docker",
         "SQLite",
-        "MySQL"
+        "MySQL",
+        "Git",
+        "Linux"
       ]
-    },
-    {
-      "name": "Tools",
-      "keywords": ["Linux", "Git", "Docker", "Jenkins", "ChatGPT", "LLM"]
     }
   ],
   "languages": [
@@ -107,7 +104,7 @@
     {
       "name": "NPM Packages",
       "startDate": "2024-01",
-      "description": "Developed various standalone apps and libraries",
+      "description": "Developed and published open-source Node.js libraries and utilities.",
       "url": "https://www.npmjs.com/~timurrin"
     }
   ]

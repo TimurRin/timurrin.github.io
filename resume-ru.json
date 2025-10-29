@@ -7,6 +7,7 @@
     "label": "Разработчик Node.js",
     "email": "timur.moziev@gmail.com",
     "website": "https://timurrin.github.io",
+    "summary": "Fullstack-разработчик на Node.js с опытом настройки инфраструктуры. Создавал среды разработки, CI/CD-пайплайны и веб-приложения на Node.js и SvelteKit. Ищу команду, чтобы применять навыки в продакшн-проектах.",
     "location": {
       "city": "Москва",
       "countryCode": "RU"
@@ -24,10 +25,12 @@
       "company": "Cinnabar Forge",
       "position": "Основной разработчик",
       "startDate": "2023-02",
-      "summary": "Разработка мультиплеерной игры. Настройка и разработка инфраструктуры организации, нескольких VPS, игровых серверов, внутренних порталов, баз данных, Телеграм-ботов, ассет-серверов. Разработка опенсорсных проектов. Оказывание фриланс-услуг компаниям.",
+      "summary": "Разработка мульитплеерной инфраструктуры и внутренних инструментов. Проектирование, развёртывание и сопровождение мультиплеерной игры, серверов, порталов, ботов и кодовой базы.",
       "highlights": [
-        "Стэк инфраструктуры: Node.js (JavaScript, TypeScript, Express.js, Svelte, SvelteKit, Knex, EJS), MTA:SA Server (Lua, SQLite), Python (вспомогательные скрипты), MySQL, SQLite, Docker, APIs платёжных систем (QIWI, Yoomoney, WebMoney, крипта), PHP (легаси).",
-        "Инструменты: Linux Ubuntu (as server OS), Docker, Git (GitHub, Gitea), Limelink (own task manager and knowledge base)."
+        "Разработка и поддержка: VPS, корпоративный VPN, Gitea, Docker.",
+        "Разработка backend и frontend на Node.js (Fastify, TypeScript) и SvelteKit.",
+        "Работа с базами данных (SQLite, MySQL) и платёжными системами.",
+        "Создание open-source-проектов."
       ]
     },
     {
@@ -36,10 +39,10 @@
       "location": "Москва",
       "startDate": "2022-12",
       "endDate": "2023-02",
-      "summary": "Поддержка существующего проекта компании: часть микросервисов, отвечающих за обработку платежей и процессингом STK (Sim ToolKit) кенийского банка.",
+      "summary": "Поддержка микросервисов, отвечающих за обработку платежей и STK-транзакций зарубежного банка.",
       "highlights": [
-        "Стэк: Java (Spring), PostgreSQL.",
-        "Инструменты: Linux Arch, Git (GitLab)."
+        "Стек: Java (Spring), PostgreSQL.",
+        "Инструменты: Linux Arch, GitLab."
       ],
       "website": "https://crestwavetech.ru"
     },
@@ -50,11 +53,11 @@
       "website": "https://www.gridnine.com",
       "startDate": "2021-05",
       "endDate": "2022-03",
-      "summary": "Разработка комплексного решения для монтажных и сервисных организаций, которое включает в себя управление финансами, формирование клиентской базы, сбор и анализ статистики, а также управление заказами и выполнением работ в режиме реального времени. Поддежка фронтэндерских задач, при необходимости. Разработка отдельного отчётного приложения для отображения статистики и данных.",
+      "summary": "Поддержка приложения для монтажных и сервисных организаций. Разрабатывал новые модули и отдельное приложение для отчетности.",
       "highlights": [
-        "Стэк главного приложения: проприетарный фреймворк компании (Java 8, PostgreSQL, TypeScript, React, XML-модели).",
-        "Стэк отчётного приложения: Java 8 (Spark), PostgreSQL, JavaScript, jQuery.",
-        "Инструменты: Linux Ubuntu (в качестве основной и серверной OS), Git (GitLab), Jenkins, Postman, Jira+Confluence."
+        "Основной стэк: Java 8, PostgreSQL, TypeScript, React.",
+        "Отчётное приложение: Java (Spark), PostgreSQL, JavaScript.",
+        "Инструменты: Linux Ubuntu, GitLab, Jenkins, Jira."
       ]
     }
   ],
@@ -74,22 +77,17 @@
       "keywords": ["JavaScript", "TypeScript", "Python", "Java"]
     },
     {
-      "name": "Стэк",
+      "name": "Фреймворки и инструменты",
       "keywords": [
         "Node.js",
-        "Express.js",
-        "Knex",
-        "Svelte",
+        "Fastify",
         "SvelteKit",
-        "HTML",
-        "CSS",
+        "Docker",
         "SQLite",
-        "MySQL"
+        "MySQL",
+        "Git",
+        "Linux"
       ]
-    },
-    {
-      "name": "Инструменты",
-      "keywords": ["Linux", "Git", "Docker", "Jenkins", "ChatGPT", "LLM"]
     }
   ],
   "languages": [
