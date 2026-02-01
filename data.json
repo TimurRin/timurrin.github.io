@@ -1,10 +1,10 @@
 {
   "title": "Timur Moziev",
-  "description": "Timur Moziev's showcase",
+  "description": "Timur Moziev's page",
   "header": {
     "image": "https://avatars.githubusercontent.com/u/10585405?s=32",
     "title": "TIMUR MOZIEV",
-    "subtitle": "software / game / web developer"
+    "subtitle": "software developer"
   },
   "sections": [
     {
@@ -45,8 +45,8 @@
           },
           "links": [
             {
-              "text": "@openTimurRin",
-              "url": "https://x.com/openTimurRin"
+              "text": "@mozzagolla",
+              "url": "https://x.com/mozzagolla"
             }
           ]
         },
@@ -87,26 +87,6 @@
             {
               "text": "@cinnabar-forge",
               "url": "https://www.npmjs.com/org/cinnabar-forge"
-            }
-          ]
-        },
-        {
-          "name": "CV / Resume",
-          "image": "https://avatars.githubusercontent.com/u/10585405?s=32",
-          "links": [
-            {
-              "text": "view",
-              "url": "https://registry.jsonresume.org/timurrin"
-            }
-          ]
-        },
-        {
-          "name": "LinkedIn",
-          "image": "img/linkedin.svg",
-          "links": [
-            {
-              "text": "visit",
-              "url": "https://www.linkedin.com/in/timur-moziev/"
             }
           ]
         }
